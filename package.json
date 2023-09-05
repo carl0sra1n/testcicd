@@ -1,0 +1,19 @@
+{
+  "name": "testcicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carl0sra1n/testcicd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carl0sra1n/testcicd/issues"
+  },
+  "homepage": "https://github.com/carl0sra1n/testcicd#readme"
+}
