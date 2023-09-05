@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/carl0sra1n/testcicd/issues"
   },
-  "homepage": "https://github.com/carl0sra1n/testcicd#readme"
+  "homepage": "https://github.com/carl0sra1n/testcicd#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
